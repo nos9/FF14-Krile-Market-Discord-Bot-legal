@@ -46,3 +46,18 @@ please contact the developer via Discord.
 ---
 
 _Last updated: 2025-12-16_
+
+---
+
+## ⚠ Disclaimer
+
+This Discord bot is an independent, fan-made project and is **not affiliated with,
+endorsed by, or sponsored by Square Enix**.
+
+FINAL FANTASY XIV © SQUARE ENIX
+
+All game-related data displayed by the bot is obtained through publicly available
+third-party APIs (including but not limited to Universalis and XIVAPI) and is used
+for informational purposes only.
+
+No game client modification, automation, or direct data extraction is performed.
