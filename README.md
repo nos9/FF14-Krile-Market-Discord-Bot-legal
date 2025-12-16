@@ -45,7 +45,7 @@ please contact the developer via Discord.
 
 ---
 
-_Last updated: 2025-12-16_
+_Last updated: 2025-12-17_
 
 ---
 
@@ -61,3 +61,15 @@ third-party APIs (including but not limited to Universalis and XIVAPI) and is us
 for informational purposes only.
 
 No game client modification, automation, or direct data extraction is performed.
+
+---
+
+## 📚 Data Sources & Credits
+
+- Market data is provided via the **Universalis API**
+- Game data is provided via **XIVAPI**
+- **Korean item name data is derived from the Teamcraft open-source project
+  (licensed under the MIT License)**
+
+These resources are used in accordance with their respective licenses
+and are publicly available.
