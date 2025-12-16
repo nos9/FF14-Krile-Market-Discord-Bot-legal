@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 2025-03-16
+Last updated: 2025-12-16
 
 ## 1. Data Collection
 The Bot may collect and store the following data:
