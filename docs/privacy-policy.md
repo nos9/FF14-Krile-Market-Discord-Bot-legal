@@ -12,9 +12,10 @@ Message content is processed only temporarily to execute commands and is not sto
 
 ## 2. Data Usage
 Collected data is used solely to provide and improve the Bot’s functionality.
+The Bot does not generate revenue and does not monetize user data.
 
 ## 3. Data Storage and Retention
-Data may be temporarily cached to reduce API usage and improve performance.
+Data may be temporarily cached to reduce external API usage and improve performance.
 Cached data is automatically deleted after a short period of time.
 
 ## 4. Data Sharing
